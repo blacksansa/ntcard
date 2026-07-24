@@ -4,7 +4,7 @@ import "./globals.css";
 // troque o valor da env var NEXT_PUBLIC_SITE_URL nas configurações do projeto
 // (Settings → Environment Variables) — não precisa editar código nem lembrar
 // de trocar isso manualmente de novo.
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://readme-five-tau.vercel.app";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://ntcard.vercel.app";
 
 export const metadata = {
   metadataBase: new URL(siteUrl),
@@ -19,8 +19,8 @@ export const metadata = {
     images: [
       {
         url: "/card-preview.png",
-        width: 1024,
-        height: 1536,
+        width: 1536,
+        height: 1024,
         alt: "Cartão de visita — Natan Tobias Advocacia",
       },
     ],
