@@ -19,8 +19,6 @@ export const metadata = {
     images: [
       {
         url: "/card-preview.png",
-        width: 1536,
-        height: 1024,
         alt: "Cartão de visita — Natan Tobias Advocacia",
       },
     ],
