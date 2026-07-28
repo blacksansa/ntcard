@@ -18,7 +18,7 @@ export const metadata = {
     description: "Advogado OAB/RJ 260.246 · Três Rios/RJ. Toque para falar agora no WhatsApp.",
     images: [
       {
-        url: "/card-preview.png",
+        url: "/card-preview.jpg",
         alt: "Cartão de visita — Natan Tobias Advocacia",
       },
     ],
@@ -28,7 +28,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Natan Tobias — Advocacia e Consultoria",
     description: "Advogado OAB/RJ 260.246 · Três Rios/RJ. Toque para falar agora no WhatsApp.",
-    images: ["/card-preview.png"],
+    images: ["/card-preview.jpg"],
   },
 };
 
